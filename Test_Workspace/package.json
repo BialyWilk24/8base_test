@@ -1,0 +1,10 @@
+{
+  "name": "Test_Workspace",
+  "version": "1.0.0",
+  "description": "8base Custom Logic",
+  "dependencies": {
+    "8base-cli-types": "^0.3.3",
+    "graphql-request": "^4.0.0",
+    "path": "^0.12.7"
+  }
+}
